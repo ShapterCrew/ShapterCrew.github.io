@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Shapter's awesome blog]]></title>
+  <link href="http://shaptercrew.github.io/atom.xml" rel="self"/>
+  <link href="http://shaptercrew.github.io/"/>
+  <updated>2014-06-16T10:08:07+02:00</updated>
+  <id>http://shaptercrew.github.io/</id>
+  <author>
+    <name><![CDATA[The Shapter Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[hello]]></title>
+    <link href="http://shaptercrew.github.io/blog/2014/06/12/hello/"/>
+    <updated>2014-06-12T17:38:45+02:00</updated>
+    <id>http://shaptercrew.github.io/blog/2014/06/12/hello</id>
+    <content type="html"><![CDATA[<p>Hello, world !</p>
+]]></content>
+  </entry>
+  
+</feed>
